@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning how to work with GitHub
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... well you probably don't want to reach me anyway but you can if you want.
-  - I have a [blog](https://sereneshuttercode.ca "Serene Shutter Code Blog")
+  - I have a [blog](https://www.sereneshuttercode.ca/blog "Serene Shutter Code Blog")
   - My [Twitter account](https://twitter.com/SereneShutterCd "SereneShutterCode Twitter")
-  - I make useless [games](https://sereneshuttercode.ca/games/ "All my useless games")
+  - I make useless [games](https://www.sereneshuttercode.ca/project/ "All my useless games")
 
 
 
